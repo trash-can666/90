@@ -1,0 +1,61 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="N*1(bO2ZVZNE!Pd~cq]A" x="0" y="0"><statement name="HANDLER"><block type="controls_repeat_ext" id="$}pXC9v#:}?sO4OZbTo0"><value name="TIMES"><shadow type="math_whole_number" id="=we!T3I]hIm!Rm6n/t,_"><field name="NUM">100</field></shadow></value><statement name="DO"><block type="device_show_number" id="o?ir]+_p1NS6Y%V/+nw%"><value name="number"><shadow type="math_number" id="9A{$s(t4H!3fF{-G8KyL"><field name="NUM">1e+72</field></shadow></value></block></statement></block></statement></block><block type="device_button_event" id=".:@m4w5Ey^`A4]Sq$fiR" x="472" y="54"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="g`{5[v-=g@15ZTh4Yp22"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id=":ZZnwP.N}8/twm+^_0~2"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        # # # # # 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="^Xj0)Ez6vF#b7:yJ?kK."><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id=";jF3`!i#OJF}V,z%i+40"><field name="LEDS">`
+        . . . . . 
+        # # # # # 
+        . . . . . 
+        # # # # # 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="9m{@9`qK2XqwMl])MD@e"><field name="LEDS">`
+        . # # . . 
+        # . . # . 
+        . . # . . 
+        . # . . . 
+        # # # # .
+        `</field><next><block type="device_show_leds" id="T(AvV%OXogd+I@M~V%C*"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . . . . 
+        . . # . .
+        `</field><next><block type="device_print_message" id="8[ZA50ksd|?orYlft[9I"><value name="text"><shadow type="text" id="v.@[]D9:vV5QAN`N@:TK"><field name="TEXT">idiot!</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="c3%pI.XM3GU1jA(kaiv/" x="235" y="84"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="p@[?b6r$tKi7.^|Ii9MS"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        # # # # # 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="81eh|SU(AXZIf/.YxznQ"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # # # # # 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="r-F1ssn].*$!=!vHG+#)"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . # . . 
+        . # . # . 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="8ZZ6jsrZ*dgyG7?(9dgm"><field name="LEDS">`
+        . . # . . 
+        . . . . . 
+        # # # # # 
+        . . . . . 
+        . . # . .
+        `</field></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="OhDV-hytpO197SW[;Z(P" x="864" y="191"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_print_message" id="]E4`Rs!},D6xb*-@YMpz"><value name="text"><shadow type="text" id="rG4r[_+N8E=`eQ)zl#nz"><field name="TEXT">poopy head</field></shadow></value></block></statement></block><block type="input_on_sound" id="fN/jf~EPhzMrFpG389y0" x="936" y="354"><field name="sound">DetectedSound.Loud</field><statement name="HANDLER"><block type="device_plot" id="$}5~[L}1%7g35i.^[!%q"><value name="x"><shadow type="math_number_minmax" id="=uSJK?A[^;Ot9*:WQiuw"><mutation min="0" max="4" label="X" precision="1"></mutation><field name="SLIDER">4</field></shadow></value><value name="y"><shadow type="math_number_minmax" id="7rEVx.2JX4Bh#DN)8?WX"><mutation min="0" max="4" label="Y" precision="1"></mutation><field name="SLIDER">4</field></shadow></value></block></statement></block></xml>
